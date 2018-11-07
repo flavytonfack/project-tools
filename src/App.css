@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister');
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+
+#mainNav {
+  background-color: #c0c5ce;
+  font-family: 'Anonymous Pro', monospace;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+#mainNav .navbar-brand {
+  font-weight: 800;
+  text-transform: uppercase;
+  color: #000000;
+  font-size: 25px;
+  margin-top: 30px;
+
+}
+
+#mainNav .navbar-brand:hover {
+  color: #FFFFFF;
+}
+
+
+.nav-link {
+  text-decoration: none;
+  color: #000000;
+  font-weight: 600;
+  margin-right: 15px;
+  font-size: 20px;
+  margin-top: 27px;
+}
+
+.nav-link:hover {
+  color: #FFFFFF;
+}
+
+
+#logoIn {
+  color: #740001;
+}
+
+.dashboard {
+  margin-top: 100px;
+}
+
+/*PROJECTS*/
+.project-list Link {
+  text-decoration: none;
+}
+.projectSummary span {
+  font-weight: 600;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.projectSummary h4 {
+  color: #740001;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+.dashboard-project{
+  background-color: mistyrose;
+}
+.dashboard-project-notification {
+  background-color: beige;
+}
+
+.project-list{
+  margin-top: 20px;
+}
+
+.project-details {
+  margin-top: 130px;
+}
+.project-details span {
+  font-weight: 600;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.project-details h4 {
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+/*NOTIFICATIONS*/
+.notifications {
+  margin-top: 20px;
+}
+.notifications li {
+ list-style-type: none;
+}
+.notifications span {
+  font-weight: 500;
+}
+.notifications h2 {
+  color: #740001;
+}
+
+/*FORM*/
+.signin-form {
+  margin-top: 150px;
+  width: 600px;
+  height: 450px;
+  padding: 3em 2em 2em 2em;
+  background: #FFFFFF;
+  border: 1px solid #740001;
+  color: #740001;
+  font-family: 'Love Ya Like A Sister', cursive;
+  color: #740001;
+
+}
+.createproject-form {
+  margin-top: 150px;
+  width: 600px;
+  height: 610px;
+  padding: 3em 2em 2em 2em;
+  background: #FFFFFF;
+  border: 1px solid #740001;
+  color: #740001;
+}
+.createproject-form h3 {
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+textarea {
+  outline: none;
+
+}
+
+.group {
+  position: relative;
+  margin-bottom: 45px;
+}
+
+.group input {
+  font-size: 18px;
+  padding: 10px 10px 10px 5px;
+  -webkit-appearance: none;
+  display: block;
+  background: #FFFFFF;
+  color: #636363;
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid #757575;
+}
+
+.group input:focus { outline: none; }
+
+
+.group .button {
+  width: 100%;
+  color: #740001;
+  background-color: burlywood;
+  height: 50px;
+  font-size: 16px;
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-weight: 800;
+}
+.group .button:focus { outline: 0; }
+
+/*SIGN UP FORM */
+
+.signup-form {
+  margin-top: 150px;
+  width: 600px;
+  height: 700px;
+  padding: 3em 2em 2em 2em;
+  background: #FFFFFF;
+  border: 1px solid #740001;
+  color: #740001;
+  font-family: 'Love Ya Like A Sister', cursive;
+  color: #740001;
+
+}
+
+.group2 {
+  position: relative;
+  margin-bottom: 45px;
+}
+
+.group2 input {
+  font-size: 18px;
+  padding: 10px 10px 10px 5px;
+  -webkit-appearance: none;
+  display: block;
+  background: #FFFFFF;
+  color: #636363;
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid #757575;
+}
+
+.group2 input:focus { outline: none; }
+
+
+.group2 .button {
+  width: 100%;
+  color: #740001;
+  background-color: burlywood;
+  height: 50px;
+  font-size: 16px;
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-weight: 800;
+}
+.group2 .button:focus { outline: 0; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
